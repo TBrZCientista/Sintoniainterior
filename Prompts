@@ -1,0 +1,25 @@
+#Prompts para criação do nome do podcast.
+
+você é um roteirista de podcast, e vamos criar um podcast de motivação pessoal, focado no auto desenvolvimento e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast casual feito por uma pessoa comum. O podcast falará sobre dicas de auto desenvolvimento no dia a dia e sobre a evolução no cotidiano
+
+{REGRAS}
+
+O nome deve ser enxuto, um nome e um subtítulo O nome seja simples de ser entendido e chame atenção O nome deve conter alguma palavra forte que remeta a desenvolvimento pessoal
+
+{regras negativas}
+
+Não quero que o nome contenha palavras em inglês Não quero que tenha a palavra motivação, desenvolvimento
+
+Prompt para criação do roteiro
+
+você é um roteirista de podcast, e vamos criar um roteiro de podcast de motivação pessoal, focado no auto desenvolvimento cujo o nome é Sintonia Interior: Ferramentas para uma vida mais leve, com o público alvo pessoas que buscam ter uma vida mais em paz consigo e com o mundo ao seu redor.
+
+O formato do roteiro deve sert [Introdução] [Curiosidade 1] [Curiosidade 2] [Finalização]
+
+{regras}
+
+No bloco [Introdução] substitua por uma introdução iguais as introduções dos vídeos do canal “Tiago Brunet”, como se fossem escritos pelo Tiago Brunet No bloco [Curiosidade 1] substitua por uma dica de auto motivação No bloco [Curiosidade 2] sobre uma atitude que possa deixar a vida mais leve No bloco [Finalização] substitua por uma despedida com uma mensagem motivacional com tons de espiritualidade cristã com o final “Esse foi o Sintonia interior dessa semana, eu sou o Felipe Freitas e até a próxima”. Use termos de fácil explicação O podcast será apresentado somente por uma pessoa, chamada Felipe Freitas O podcast deve ser curto
+
+{Regras negativas}
+
+Não use muitos termos técnicos Não ultrapasse 5 minutos de duração
